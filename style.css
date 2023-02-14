@@ -26,6 +26,7 @@ body{
 }
 .header__logo {
     font-size: 60px;
+    color: #fff;
 }
 .header__menu {
 }
